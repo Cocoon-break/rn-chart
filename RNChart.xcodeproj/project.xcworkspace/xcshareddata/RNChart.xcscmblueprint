@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "a83fe358-76dd-4389-9487-7b76d03764a0++2582",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a83fe358-76dd-4389-9487-7b76d03764a0++2582" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a83fe358-76dd-4389-9487-7b76d03764a0++2582" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF602BDC-97E8-426F-8B15-FA6CBF04FEAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a83fe358-76dd-4389-9487-7b76d03764a0++2582" : "goodHabitParents\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RNChart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "node_modules\/react-native-chart\/RNChart.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/123.57.227.95\/svn2\/habitsBank_app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a83fe358-76dd-4389-9487-7b76d03764a0++2582"
+    }
+  ]
+}
